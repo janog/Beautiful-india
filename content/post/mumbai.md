@@ -3,7 +3,7 @@
 title = "Mumbai"
 date = "2021-02-02T16:41:08+02:00"
 author = "JG"
-tags = ["MAHARASHTRA"]
+tags = ["Sud"]
 categories = ["Mumbai"]
 menu = ""
 banner = "banners/mumbai-1.jpg"

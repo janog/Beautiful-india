@@ -3,7 +3,7 @@
 title = "Allepey"
 date = "2021-02-02T16:41:08+02:00"
 author = "JG"
-tags = ["Kerala"]
+tags = ["Sud"]
 categories = ["Allepey"]
 menu = ""
 banner = "banners/allepey-1.jpg"

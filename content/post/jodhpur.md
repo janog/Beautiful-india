@@ -1,8 +1,8 @@
 +++
 title = "Jodhpur"
-date = "2021-02-01T16:50:08+02:00"
+date = "2021-02-05T12:09:20+01:00"
 author = "JG"
-tags = ["RAJASTHAN"]
+tags = ["Nord"]
 categories = ["Jodhpur"]
 menu = ""
 banner = "banners/jodhpur.jpg"

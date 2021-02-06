@@ -3,7 +3,7 @@
 title = "Munnar"
 date = "2021-02-02T16:41:08+02:00"
 author = "JG"
-tags = ["Kerala"]
+tags = ["Sud"]
 categories = ["Munnar"]
 menu = ""
 banner = "banners/munnar-1.jpg"

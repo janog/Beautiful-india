@@ -1,9 +1,9 @@
 
 +++
 title = "Gokarna"
-date = "2021-02-02T16:41:08+02:00"
+date = "2021-02-02T18:41:08+02:00"
 author = "JG"
-tags = ["Karnataka"]
+tags = ["Sud"]
 categories = ["Gokarna"]
 menu = ""
 banner = "banners/gokarna-1.jpg"

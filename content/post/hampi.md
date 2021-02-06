@@ -1,9 +1,9 @@
 
 +++
 title = "Hampi"
-date = "2021-02-02T16:41:08+02:00"
+date = "2021-02-02T16:50:08+02:00"
 author = "JG"
-tags = ["Karnataka"]
+tags = ["Sud"]
 categories = ["Hampi"]
 menu = ""
 banner = "banners/hampi-2.jpg"

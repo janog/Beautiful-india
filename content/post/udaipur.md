@@ -1,8 +1,8 @@
 +++
 title = "Udaipur"
-date = "2021-02-01T16:41:08+02:00"
+date = "2021-02-05T12:07:20+01:00"
 author = "JG"
-tags = ["RAJASTHAN"]
+tags = ["Nord"]
 categories = ["Udaipur"]
 menu = ""
 banner = "banners/udaipur.jpg"

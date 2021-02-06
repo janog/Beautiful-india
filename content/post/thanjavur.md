@@ -2,7 +2,7 @@
 title = "Thanjavur"
 date = "2021-02-02T16:41:08+02:00"
 author = "JG"
-tags = ["TamilNadu"]
+tags = ["Sud"]
 categories = ["Thanjavur"]
 slider=true
 menu = ""

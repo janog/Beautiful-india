@@ -2,7 +2,7 @@
 title = "khajuraho"
 date = "2021-02-01T16:49:08+02:00"
 author = "JG"
-tags = ["RAJASTHAN"]
+tags = ["Nord"]
 categories = ["khajuraho"]
 menu = ""
 banner = "banners/khajuraho.jpg"

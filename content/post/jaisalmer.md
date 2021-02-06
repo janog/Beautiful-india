@@ -1,8 +1,8 @@
 +++
 title = "Jaisalmer"
-date = "2021-02-01T16:25:08+02:00"
+date = "2021-02-05T12:10:20+01:00"
 author = "JG"
-tags = ["RAJASTHAN"]
+tags = ["Nord"]
 categories = ["jaisalmer"]
 menu = ""
 banner = "banners/jaisalmer.jpg"

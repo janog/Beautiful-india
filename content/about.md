@@ -23,6 +23,7 @@ disable_comments: true
 
 * l'Assurance d'une grande souplesse dans votre voyage
 * Expérience culturelle garantie au contact de la population
+![ ANIL ](/anil-voiture.jpg "Votre chauffeur et sa voiture")
 
 
  

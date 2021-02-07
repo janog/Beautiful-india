@@ -75,7 +75,7 @@ DisqusShortname = "example"
     tumblr          = ""
     linkedin        = ""
     pinterest       = ""
-    facebook        = "example"
+    facebook        = "/profile.php?id=100007568028314"
     twitter         = ""
     email           = "jean.guillemet@gmail.com"	
 
